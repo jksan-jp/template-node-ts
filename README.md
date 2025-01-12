@@ -1,1 +1,1 @@
-# template-nextjs
+# template-node-ts
