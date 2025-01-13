@@ -12,14 +12,12 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "yarn install",
+	"postCreateCommand": "npm install",
 
 	// Configure tool-specific properties.
 	"customizations": {
 		"vscode": {
-			"extensions": [
-				"mhutchie.git-graph"
-			]
+			"extensions": ["mhutchie.git-graph"]
 		}
 	}
 
